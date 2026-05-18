@@ -62,10 +62,10 @@ Only **1.2%** of outputs blocked — well-calibrated, not over-restrictive.
 
 ## 📂 Repo Contents
 
-| File                                      | What it is           |
-| ----------------------------------------- | -------------------- |
-| `COOP2_Project_Report_Jasneet_Arora.docx` | Full research report |
-| `COOP2_External_PPT.pptx`                 | Presentation slides  |
+| File              | What it is           |
+| ----------------- | -------------------- |
+| `ARCF_Report.pdf` | Full research report |
+| `ARCF_PPT.pdf`    | Presentation slides  |
 
 ---
 
