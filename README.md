@@ -1,5 +1,7 @@
 # 🤖 A Reliability Control Framework for Robust Multi-Agent LLM Systems: Managing Workflows in Large Language Model Systems
 
+📄 Paper: https://www.ijert.org/a-reliability-control-framework-for-robust-multi-agent-llm-systems-managing-workflows-in-large-language-model-systems-ijertv15is050114
+
 ## 📌 The Problem
 
 Multi-agent LLM systems (AutoGen, LangChain, MetaGPT, CAMEL) fail in production constantly — coordination breakdowns, tool misuse, context overflows, cascading agent failures. **None of them have built-in reliability.** Monitoring is bolted on after the fact.
